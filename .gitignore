@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# macOS
+.DS_Store
+
+# Training artifacts (don't commit, too large)
+experiments/run_*/logs/
+experiments/run_*/weights/checkpoint_epoch*.pt
+
+# Temp files
+*.log
+training.log
+nohup.out
