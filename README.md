@@ -6,7 +6,7 @@
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/Lochanpatil9/kla-image-restoration.git
+git clone https://github.com/Lochanpatil9/KLA-Image-Restoration.git
 cd kla-image-restoration
 
 # 2. Install dependencies
